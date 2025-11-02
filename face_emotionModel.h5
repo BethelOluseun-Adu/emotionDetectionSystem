@@ -1,0 +1,1 @@
+PLACEHOLDER: OpenCV-based detector is used by app.py. To use a neural model, run model_training.py after installing TensorFlow and preparing data.
