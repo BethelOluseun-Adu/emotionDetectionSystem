@@ -1,5 +1,5 @@
 
-OYEBANJO_22CD032195 - Face Emotion Detection (Student submission ready)
+OLUSEUN-ADU_22CD032186 - Emotion Detection System (Student submission ready)
 ------------------------------------------------------------
 Files included:
 - app.py                   : Flask web app (uses OpenCV heuristic to detect happy/neutral/sad)
